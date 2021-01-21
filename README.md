@@ -1,8 +1,10 @@
 # HTML-Cheatsheet-for-Dev's
 
-This is the CheatSheet Template created using HTML, CSS & JavaScript.
+This is the HTML CheatSheet Template created using HTML, CSS & JavaScript.
 
 ## Introduction
+
+- Developed for faster access of our Code Snippets.
 
 - You can Copy the various codes used during Development like HTML boilerplate and Tags used during HTML and CSS.
 

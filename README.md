@@ -4,7 +4,7 @@ This is the CheatSheet Template created using HTML, CSS & JavaScript.
 
 ## Introduction
 
-- You can Copy the various codes used during Development like HTMl boilerplate and Tags used during HTML and CSS.
+- You can Copy the various codes used during Development like HTML boilerplate and Tags used during HTML and CSS.
 
 - for the sake of Simplicity ( It's only for Developers 😏😏)
 
